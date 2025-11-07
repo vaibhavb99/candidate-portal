@@ -1,17 +1,13 @@
-# Candidate Information & Video Submission Portal
+# Project: Candidate Information & Video Submission Portal
 
-A full-stack web application built using **Vite + React (frontend)** and **Node.js + Express + MongoDB (backend)**.  
+Hello, I have developed this project as a part of an assignment. It is a A full-stack web application built using **Vite + React (frontend)** and **Node.js + Express + MongoDB (backend)**.  
 Candidates can fill a form, upload a resume (PDF ≤5MB), record a short video (≤90s), review, and submit — all data stored securely in MongoDB GridFS.
-
----
 
 # Tech Stack
 
 - **Frontend:** React 18 + Vite + Bootstrap 5
 - **Backend:** Node.js 22 + Express 4 + Multer + Mongoose 8.6.2
 - **Database:** MongoDB 6.7.0
-
----
 
 # Setup & Installation
 
@@ -66,7 +62,6 @@ Check MongoDB mongodb://localhost:27017/canddb
 
 # Versions
 
-Tool Version
 Node.js 22.x
 MongoDB 6.7.0
 Mongoose 8.6.2
